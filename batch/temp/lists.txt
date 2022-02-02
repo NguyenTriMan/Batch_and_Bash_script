@@ -1,0 +1,13 @@
+Hello World 
+ Volume in drive C has no label.
+ Volume Serial Number is B0B5-B9F6
+
+ Directory of C:\Users\Administrator\Desktop\bat_bash\batch
+
+02/02/2022  17:19    <DIR>          .
+02/02/2022  17:19    <DIR>          ..
+02/02/2022  17:19               388 create_file.bat
+02/02/2022  17:19    <DIR>          temp
+02/02/2022  17:01               163 tutorial.bat
+               2 File(s)            551 bytes
+               3 Dir(s)  115,654,483,968 bytes free
