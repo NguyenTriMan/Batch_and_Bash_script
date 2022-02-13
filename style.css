@@ -1,0 +1,21 @@
+.citizen-kane {
+    font-family: American Typewriter, Consolas, Courier New, Courier, sans-serif;
+    font-size: 1.6rem;
+    padding: 2.2rem;
+    line-height: 1.5;
+  }
+  span.spoiler {
+    text-shadow: 0 0 8px #000;
+    color: rgba(255, 255, 255, 0);
+    margin-left: 0;
+    padding: 2.6rem;
+    filter: DXImageTransform.Microsoft.Blur(pixelradius=2);
+    zoom: 1;
+    pause-before: 2s;
+    transition: 1s text-shadow linear;
+  }
+  /* span.spoiler:hover {
+    text-shadow: none;
+    color: #000;
+    filter: none;
+  } */
